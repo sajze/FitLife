@@ -1,4 +1,4 @@
-print('Добро пожаловать в программу "Fit Life"!')
+print('Вас приветствует FitLife!')
 user_name = input('Введите ваше имя: ')
 user_age = int(input('Введите ваш возраст: '))
 user_weight = float(input('Введите ваш вес (в кг): '))
